@@ -40,8 +40,8 @@ public class SerializationDemo implements Serializable {
 		filein.close();
 		
 		System.out.println("Object has been deserialized ");
-        System.out.println("length = " + sd2.length);
-        System.out.println("breadth = " + sd2.breadth);
+        	System.out.println("length = " + sd2.length);
+        	System.out.println("breadth = " + sd2.breadth);
 		
 	}
 
